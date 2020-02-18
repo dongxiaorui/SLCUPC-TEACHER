@@ -1,0 +1,16 @@
+1.必学
+   中国大学MOOC
+2.基础教程
+   菜鸟教程 https://www.runoob.com/  包括HTML、CSS、JS、VUE.JS、JSP、Servlet、Maven等
+   易百教程 https://www.yiibai.com/  包括JAVA、JSP、JDBC、Maven、MyBatis、Spring、SpringMVC等
+   W3SCHOOL https://www.w3cschool.cn/
+3.资源网站
+   bilibili https://www.bilibili.com/
+   GITHUB https://github.com/
+   VUE.JS https://cn.vuejs.org/
+4.参考书目
+    J2EE架构与程序设计	Java Web开发技术	刘波	9787115503893	人民邮电出版社
+    J2EE架构与程序设计	Java EE企业级应用开发教程（Spring+Spring MVC+MyBatis）	黑马程序员	9787115461025	人民邮电出版社
+    J2EE架构与程序设计	Vue.js前端开发技术	豆连军	9787115508058	人民邮电出版社
+    J2EE架构与程序设计	Spring Boot企业级开发教程	黑马程序员	9787115512796	人民邮电出版社
+    J2EE架构与程序设计	微服务架构基础（Spring Boot+Spring Cloud+Docker）	黑马程序员	9787115443205	人民邮电出版社

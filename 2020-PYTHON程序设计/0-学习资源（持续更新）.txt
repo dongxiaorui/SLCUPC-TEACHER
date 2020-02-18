@@ -14,3 +14,8 @@
        【千锋教育】Python 900集（学完可就业/2019版） https://www.bilibili.com/video/av69060979?from=search&seid=15173659159854875848
    3.2.练习类
        MOOC配套平台 PYTHON123 https://www.python123.io/
+4.参考书目
+    Python程序设计	Python基础教程（第3版）	Magnus Lie Hetland著，袁国忠译	9787115474889	人民邮电出版社
+    Python程序设计	Python Web开发基础教程（Django版）（微课版）	夏帮贵	9787115522795	人民邮电出版社
+    Python程序设计	Python游戏设计案例实战	夏敏捷 , 尚展垒	9787115503190	人民邮电出版社
+    Python程序设计	Python网络爬虫实例教程（视频讲解版）	齐文光	9787115484659	人民邮电出版社
