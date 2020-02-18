@@ -1,0 +1,16 @@
+1.必学
+   中国大学MOOC https://www.icourse163.org/course/BIT-268001
+2.建议提前学习（按难易程度排序）
+   2.1.基础语法
+       菜鸟教程 https://www.runoob.com/python/python-tutorial.html
+       W3SCHOOL https://www.w3cschool.cn/python/
+   2.2.进阶类博客
+       廖雪峰的官方网站 https://www.liaoxuefeng.com/wiki/1016959663602400
+   2.3.django视频
+       千锋python教程：Django基础到实战讲解（精华版） https://www.bilibili.com/video/av17879644?from=search&seid=8997683155167507670
+3.其他较好的资源
+   3.1.进阶类视频
+       Python教程_600集Python从入门到精通教程（懂中文就能学会） https://www.bilibili.com/video/av14184325/
+       【千锋教育】Python 900集（学完可就业/2019版） https://www.bilibili.com/video/av69060979?from=search&seid=15173659159854875848
+   3.2.练习类
+       MOOC配套平台 PYTHON123 https://www.python123.io/
