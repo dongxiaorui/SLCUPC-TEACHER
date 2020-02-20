@@ -2,8 +2,8 @@
    中国大学MOOC
 2.基础教程
    菜鸟教程 https://www.runoob.com/  包括HTML、CSS、JS、VUE.JS、JSP、Servlet、Maven等
-   易百教程 https://www.yiibai.com/  包括JAVA、JSP、JDBC、Maven、MyBatis、Spring、SpringMVC等
    W3SCHOOL https://www.w3cschool.cn/
+   易百教程 https://www.yiibai.com/  包括JAVA、JSP、JDBC、Maven、MyBatis、Spring、SpringMVC等
 3.资源网站
    bilibili https://www.bilibili.com/
    GITHUB https://github.com/
