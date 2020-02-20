@@ -1,6 +1,6 @@
 1.必学
    中国大学MOOC https://www.icourse163.org/course/BIT-268001
-2.建议提前学习（按难易程度排序）
+2.建议提前学习（按易难程度排序）
    2.1.基础语法
        菜鸟教程 https://www.runoob.com/python/python-tutorial.html
        W3SCHOOL https://www.w3cschool.cn/python/
