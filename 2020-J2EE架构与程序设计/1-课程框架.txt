@@ -15,17 +15,19 @@
     8）SSM：根据进度，设计Spring、SpringMVC和Mybatis的讲解
     9）springboot：根据进度，设计springboot的讲解
 4.考核
-4.1.平时分（30分）（可能会调整）
+4.1.平时分（30分）
     1）不定期签到 20%
-    2）中国大学MOOC 1门相关课程的学习截图 20%
-       eg. Java Web应用程序开发 商丘职业技术学院 陈哲 https://www.icourse163.org/course/SQZY-1002920006?tid=1450379452
+    2）中国大学MOOC 1-2门相关课程的学习截图 20%
+       eg. （推荐1）Web前端开发 北京林业大学 孙俏 第3次开课 https://www.icourse163.org/course/BJFU-1003382003?tid=1206736215
+           （推荐2）Java Web开发基础 第1次开课 https://www.icourse163.org/course/GDQY-1207458801
+           Java Web应用程序开发 商丘职业技术学院 陈哲 https://www.icourse163.org/course/SQZY-1002920006?tid=1450379452
            Java应用开发基础  https://www.icourse163.org/course/FAFU-1003465001
            JavaEE技术与实践  https://www.icourse163.org/course/ECNU-1206862807
            Java Web应用开发  https://www.icourse163.org/course/JMI-1206690866
            等标题或内容包括“Java Web”的相关课程均可
        tips.上机课时展示给我，16周之前的任何时间均可（可能会调整，具体情况本周内通知）
             基础较好的同学，例如苏振钊可以不局限于上述mooc，可自选适合自己的，也建议苏振钊开始准备期末大作业项目
-    3）3~5次平时上机考核、2~3次平时小项目 70%
+    3）3~5次平时上机考核、2次平时小项目 70%
 4.2.大作业（70分）
     1）自选题目，基于JAVA WEB的系统，具体要求和评价标准到时再行通知，提早准备的可自选题目
     2）往年参考：基于JAVA WEB的在线游戏，一人一组或多人一组
