@@ -1,0 +1,41 @@
+1.1 python开发者
+    guido 20年 龟叔
+1.1.3.编译和解释
+    python的运行原理
+    源代码*.py --->  python解释器  --->  字节码 *.pyc  ---> python虚拟机（PVM）
+    开发环境IDE，不叫编译器
+1.1.4.程序的基本编写方法
+    计算部分，需要用多个角度去思考
+    计算机的哲学：冯诺依曼结构
+                IPO+存储 P：控制与运算
+1.2.开发环境配置
+    [1] IDLE: Python解释器默认工具（本课程推荐） shell
+    [2] Visual Studio Code: http://code.visualstudio.com/
+    [3] PyCharm: http://www.jetbrains.com/pycharm/
+    [4] Anaconda: http://www.continuum.io/
+1.3.1.实例温度转换
+    温度转换-->多角度审视
+    温度的由来
+1.3.2.编写实例代码
+    同学们课下，一定要不浮躁地听一下
+    #单行注释 ''' 多行注释  '''
+    输入函数 input("显示出来的话")  存储时都是字符串类型
+    if str[-1]=='F' or str[-1]=='f':（C语言思维写法更冗余）
+    切片 str[0:-1] 0起始，-1结束，但是不包括-1
+    eval  JavaScript  eval("print(1)")
+                      print(1+2*3)
+                      eval("print(1+2*3)") -> 7
+                      +- */ 之间关系 () 
+                      eval("1+2*3")  -> int 7
+                      a=1+2*3
+                      eval("12.45")  -> 12.45
+          Q：1+2*3 -> eval()
+             killme -> eval() -> killed
+             eval在无法确定输入者是否是好人时，是危险的
+          一句话木马  eval(_GET['s'])
+          www.a.com/index.php 
+          www.a.com/index.php?s=killme -> killed
+2.2.2.蟒蛇实例
+    turtle 海龟 dos  
+           (650,350,200,200) .NET dialog 
+                             按键精灵
