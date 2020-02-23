@@ -17,7 +17,7 @@
 4.考核
 4.1.平时分（30分）
     1）不定期签到 20%
-    2）中国大学MOOC 1-2门相关课程的学习截图 20%
+    2）中国大学MOOC 1-2门相关课程的学习情况展示给我 20%
        eg. （推荐1）Web前端开发 北京林业大学 孙俏 第3次开课 https://www.icourse163.org/course/BJFU-1003382003?tid=1206736215
            （推荐2）Java Web开发基础 第1次开课 https://www.icourse163.org/course/GDQY-1207458801
            Java Web应用程序开发 商丘职业技术学院 陈哲 https://www.icourse163.org/course/SQZY-1002920006?tid=1450379452
