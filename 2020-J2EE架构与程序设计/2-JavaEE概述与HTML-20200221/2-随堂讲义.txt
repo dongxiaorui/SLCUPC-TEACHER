@@ -1,5 +1,40 @@
-Java Web开发基础 第1次开课 https://www.icourse163.org/course/GDQY-1207458801
+1.1.Java Web技术
+    PHP？
+    B/S架构 browser / server   HTML本机    B
+    C/S架构 client / server    C#...GUI对话框程序 单机  C
+    种子、区块链  P2P 无中心型的服务器 客户机自为服务器
+    http / https
+    http://172.168.1.1  -->  https://...
+    https://www.baidu.com 伪 跳转至 http://www.baidu.com
 
+    360极速模式 chrome、chromiun、firefox 
+    控制台启动方法：右键：“检查” or “审查元素”；F12
+    【elements】查看或修改页面元素
+    【networks】查看request或response数据包情况
 
+1.2.动态与静态页面
+    目前还有大量的*.html文件，主要有两种:
+    1、动态页面生成静态页面html，这个静态页面供所有人查看
+       部门变化的区域可能使内嵌其他动态页面或者AJAX进行局部刷新
+    2、伪静态，asp aspx jsp php文件 --伪造的--> html
+       服务器上有个配置，让服务器发现有请求时，请求中网址结尾的html，就按照jsp来处理
+1.3.动态WEB技术
+    cgi、asp 2000年、jsp、asp.net（aspx）、php
+    java 跨平台 ，vm
+    服务器 apache、nginx、iis 
+    操作系统 linux windows macos
+2.HTML基础
+    2.1.文件结构
+        head中的meat标签中的keywords和description 非常重要
+    2.2.乱码
+        1、meta charset='utf8' //ascii gbk gb2312 utf8 utf16 utf32
+        2、文件本身的编码格式要改为utf8
+        tips:UTF-8 Utf-8 utf-8 UTF8 utf8
+    2.3.HTML有很多标签，这些标签是干什么的？
+        错误的想法：标签控制着样式，大错特错的想法！
+        标签是标注这部分内容是什么的，style、css样式表才是控制这部分内容的样子
+        那么，HTML其实是一篇文章！！！！
+    2.4.HTML本身就是一段文本，让它变得五颜六色的不是服务器，是浏览器，我们看到的有可能是假象。
+        我们看到的是浏览器处理过后的结果，而不是服务器上正在发生的内容。
 
 Web前端开发 北京林业大学 孙俏 第3次开课 https://www.icourse163.org/course/BJFU-1003382003?tid=1206736215
