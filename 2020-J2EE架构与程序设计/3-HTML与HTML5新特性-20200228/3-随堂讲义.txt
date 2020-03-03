@@ -1,0 +1,57 @@
+HTML HTML5
+标记语言 html xml 标签
+
+title>keywords>description>h1>h2>h3>h*>p
+
+<p>123123</p>
+<p>21312<br/>3213</p>
+<br> <br/>
+
+
+超链接 a 02.html
+target  _blank 新打开一个页面（都新建一个新窗体）
+        _new 新打开一个页面（同一个新窗体内）
+        _self 在当前窗体内打开页面
+        _parent 在父亲窗体打开页面
+        _top 在最顶层窗体内打开页面
+        [target_frame_name] 目标窗体的名字 
+
+@加分 王凯、姚远、134周慧文
+
+ul ol li  另外的作用，做菜单
+
+<table>
+    <th> 首行
+    <tr> 行
+    <td> 单元格
+
+a 可以把多个网页联系起来
+form 可以实现多个网页间的参数传递
+     get / post
+     action
+input type="text"
+            password **** ...
+            submit 提交 reset 重置
+            radio    name
+            checkbox name
+select option
+textarea
+
+周日之前，会把作业的要求发到群里和github，选题发到腾讯文档上，在群里通知
+科学家的生平和贡献， 尽可能地多使用标签，同时体会容器级和文本级标签的区别
+评分：1、标签的种类数  
+一人一组，适当延长交卷时间
+
+<div><p><a><b>
+错误标签  后面就算正确了也不会统计了  
+
+HTML标签 分为 容器级 文本级
+容器级：div h dt dd li
+文本级：p b a
+
+CSS标签 分为 块元素 和 行内元素（内联）
+块元素：div p li 
+行内元素：span a 
+
+https://www.w3school.com.cn/html/html_formatting.asp
+
