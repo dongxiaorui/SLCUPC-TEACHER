@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>服创竞赛A9僵尸企业画像V0.1 - 20200222</title>
+        <meta charset="utf8"/>
+        <meta name="keywords" content="僵尸企业画像"/>
+        <meta name="description" content="僵尸企业画像"/>
+    </head>
+    <body>
+        <form>
+            <table border="1px" align="center" width="75%">
+                <tr>
+                    <td>训练数据</td>
+                    <td>
+                        <input type="radio" name="db" value="db01" checked onclick="document.getElementById('upload').style.display='none';">使用已下发训练集<br>
+                        <input type="radio" name="db" value="db02" onclick="document.getElementById('upload').style.display='';">我要新上传训练集
+                        <div id='upload' name='upload' style="display:none">
+                            <table>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                    <td>上传</td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>选择模型</td>
+                    <td>
+                        <input type="checkbox" name="t" value="t01"/>CHK
+                        <input type="checkbox" name="t" value="t02"/>FN-CHK
+                        <input type="checkbox" name="t" value="t03"/>国务院
+                        <input type="checkbox" name="t" value="t04"/>T04
+                        <input type="checkbox" name="t" value="t05"/>T05
+                        <input type="checkbox" name="t" value="t06"/>T06<br>
+                        <input type="checkbox" name="ai" value="ai01"/>支持向量机
+                        <input type="checkbox" name="ai" value="ai02"/>朴素贝叶斯
+                        <input type="checkbox" name="ai" value="ai03"/>随机森林
+                        <input type="checkbox" name="ai" value="ai04"/>BP神经网络
+                        <input type="checkbox" name="ai" value="ai05"/>线性回归
+                        <input type="checkbox" name="ai" value="ai06"/>AI06<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>验证数据</td>
+                    <td>
+                        <input type="radio" name="test" value="test01" onclick="document.getElementById('form2').style.display='';document.getElementById('upload2').style.display='none';">输入单条测试数据<br>
+                        <input type="radio" name="test" value="test02" onclick="document.getElementById('upload2').style.display='';document.getElementById('form2').style.display='none';">我要新上传测试集
+                        <div id='upload2' name='upload2' style="display:none">
+                            <table>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                    <td>上传</td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                                <tr>
+                                    <td>上传base_xxxx.csv</td>
+                                    <td><input type="file" value="上传base_xxxx.csv" /></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div id='form2' name='form2' style="display:none">
+                            <table>
+                                <tr>
+                                    <td>属性1</td>
+                                    <td><input name="ta01" type="text" value="" /></td>
+                                </tr>
+                                <tr>
+                                    <td>属性2</td>
+                                    <td><input type="text" value="" /></td>
+                                </tr>
+                                <tr>
+                                    <td>属性3</td>
+                                    <td><input type="text" value="" /></td>
+                                </tr>
+                                <tr>
+                                    <td>属性4</td>
+                                    <td><input type="text" value="" /></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>指令执行</td>
+                    <td>
+                        <button>运行</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <textarea cols="175%" rows="40"></textarea>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
